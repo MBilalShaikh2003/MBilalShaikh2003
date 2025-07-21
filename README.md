@@ -49,8 +49,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mbilalshaikh2003/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/MBilalShaikh2003)
+[![LinkedIn](https://www.linkedin.com/in/muhammad-bilal-shaikh-dev/)
+[![GitHub](https://github.com/MBilalShaikh2003)
 [![X/Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/MBilalShaikh03)
 
 ---
