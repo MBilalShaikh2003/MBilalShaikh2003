@@ -28,11 +28,15 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MBilalShaikh2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MBilalShaikh2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MBilalShaikh2003&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MBilalShaikh2003&theme=tokyonight" alt="Summary Card" />
 </p>
 
 <p align="left">
@@ -49,9 +53,17 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/muhammad-bilal-shaikh-dev/)
-[![GitHub](https://github.com/MBilalShaikh2003)
-[![X/Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/MBilalShaikh03)
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-bilal-shaikh-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MBilalShaikh2003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/MBilalShaikh03" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
