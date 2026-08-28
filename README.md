@@ -1,27 +1,51 @@
-<h1 align="center">Hi 👋, I'm Bilal Sheikh</h1>
-<h3 align="center">💻 Full Stack Developer | 🎓 Student | 🌱 Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Bilal Shaikh</h1>
+<h3 align="center">🚀 Full-Stack Developer | React.js · Next.js · Node.js · TypeScript | 1.5+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bilal+Sheikh;Frontend+%26+Backend+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;TypeScript+%7C+MongoDB+%7C+PostgreSQL;Docker+%7C+AWS+%7C+Linux+VPS;Always+Building+Something+Real!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 I'm a passionate student exploring the world of **Full Stack Development**
-- 🌍 I love working on both **Frontend (React, Next.js)** and **Backend (Node.js, Express, MongoDB)**
-- 💡 Currently learning advanced backend, APIs, and deployment strategies
-- 🎯 I believe in learning by building and experimenting with real-world projects
-- ✨ Always open to collaboration and team learning
+- 💼 Currently working as **Frontend Developer @ UrApp Technologies**
+- 🏢 Previously **Frontend Developer Intern @ 360XpertSolution** (9 months)
+- 🎓 Final Year **BS Software Engineering** — University of Karachi (UBIT '26)
+- ⚡ I build full-stack web & mobile applications using **MERN Stack + Next.js**
+- ☁️ Experienced in deploying apps on **AWS, Docker, Linux VPS (Contabo), Vercel**
+- 🤖 Daily user of **AI-assisted development** — Claude, ChatGPT, GitHub Copilot
+- 🌱 Currently deepening skills in **React Native & DevOps**
+- 📫 Reach me at **muhamadbilalshaikh123@gmail.com**
 
 ---
 
 ### 🚀 Tech Stack
 
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
 </p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,postman,androidstudio" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Tech Stack | Live |
+|--------|-----------|------|
+| 🛍️ **Perfume Store** — Full-Stack E-Commerce | Next.js, MongoDB, Tailwind | [Live Demo](https://perfume-store-lime-xi.vercel.app/) |
+| 🏨 **BookStay** — Hotel Booking + Admin Dashboard | Next.js, TypeScript, Tailwind | [Live Demo](https://booking-hotel-next-3hwbj2n2w-bilals-projects-ba93d5df.vercel.app/) |
+| 🍕 **Food Panda Clone** — Frontend Recreation | React.js, CSS | [Live Demo](https://food-panda-sigma.vercel.app/) |
 
 ---
 
@@ -30,15 +54,12 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MBilalShaikh2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MBilalShaikh2003&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MBilalShaikh2003&theme=tokyonight" alt="Summary Card" />
 </p>
-
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=MBilalShaikh2003&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
@@ -73,4 +94,4 @@
 
 ---
 
-> “Creativity is intelligence having fun.” — *Albert Einstein*
+> "The best way to predict the future is to build it." — *Alan Kay*
