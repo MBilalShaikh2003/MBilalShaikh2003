@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 💼 Currently working as **Frontend Developer @ UrApp Technologies**
+- 💼 Currently working as **FULLSTACK Developer @ UrApp Technologies**
 - 🏢 Previously **Frontend Developer Intern @ 360XpertSolution** (9 months)
 - 🎓 Final Year **BS Software Engineering** — University of Karachi (UBIT '26)
 - ⚡ I build full-stack web & mobile applications using **MERN Stack + Next.js**
